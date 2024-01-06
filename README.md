@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Shah</h1>
 <h3 align="center">Final year undergrad, passionate full stack developer. Exploring ML/DL, Cloud computing & Mobile-app development</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/643451865504790507/">
-
-<p align="left"> <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" /> </p>
 
 - 🌱 I’m currently learning **ML/DL and cloud basics**
 
