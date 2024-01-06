@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anujshah120102@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/3vmiWBj](http://bit.ly/3vmiWBj)
+- 📄 My Resume [http://bit.ly/3vmiWBj](http://bit.ly/3vmiWBj)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
