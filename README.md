@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anutz15&show_icons=true&locale=en" alt="anutz15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anutz15&" alt="anutz15" /></p>
-![image](https://github.com/anutz15/anutz15/assets/106430883/f7bb5220-b18b-4589-9664-a6999723298f)
