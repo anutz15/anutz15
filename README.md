@@ -2,11 +2,11 @@
 <h3 align="center">Final year undergrad, passionate full stack developer. Exploring ML/DL, Cloud computing & Mobile-app development</h3>
 <img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/643451865504790507/">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anutz15&label=Profile%20views&color=0e75b6&style=flat" alt="anutz15" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" /> </p>
 
 - 🌱 I’m currently learning **ML/DL and cloud basics**
 
-- 💬 Ask me about **React, Express, Node, MongoDB, Java, Python, OOPS,**
+- 💬 Ask me about **React, Express, Node, MongoDB, Java, Python, OOPS, OS, DBMS**
 
 - 📫 How to reach me **anujshah120102@gmail.com**
 
