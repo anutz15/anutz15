@@ -23,5 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anutz15&show_icons=true&locale=en" alt="anutz15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anutz15&" alt="anutz15" /></p>
-![Uploading image.png…]()
 
