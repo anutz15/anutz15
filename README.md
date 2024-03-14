@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Shah</h1>
 <h3 align="center">Final year undergrad, passionate full stack developer. Exploring ML/DL, Cloud computing & Mobile-app development</h3>
 
-- 🌱 I’m currently learning **ML/DL and cloud basics**
+- 🌱 I’m currently working on **Hyperspectral image processing**
 
 - 💬 Ask me about **React, Express, Node, MongoDB, Java, Python, OOPS, OS, DBMS**
 
