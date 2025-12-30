@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anuj.shah300@gmail.com**
 
-- 📄 My Resume [http://bit.ly/3vmiWBj](https://bit.ly/48D32S9)
+- 📄 [My Resume](https://bit.ly/48ZNPgp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
