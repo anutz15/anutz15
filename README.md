@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anuj Shah</h1>
 <h3 align="center">Final year undergrad, passionate full stack developer. Exploring ML/DL, Cloud computing & Mobile-app development</h3>
 
-- 🌱 I’m currently working on **Hyperspectral image processing**
+- 🌱 I’m currently working at **DELOITTE India**
 
-- 💬 Ask me about **React, Express, Node, MongoDB, Java, Python, OOPS, OS, DBMS**
+- 💬 Ask me about **React, Express, Node, MongoDB, Java, Python, OOPS, OS, DBMS, Salesforce Marketing Cloud**
 
-- 📫 How to reach me **anujshah120102@gmail.com**
+- 📫 How to reach me **anuj.shah300@gmail.com**
 
 - 📄 My Resume [http://bit.ly/3vmiWBj](https://bit.ly/48D32S9)
 
